@@ -1,0 +1,23 @@
+{
+    "name": "je0d Dark",
+    "version": "1.0",
+    "main": "dark.css",
+    "author": "je0d Dark",
+    "publishConfig": {
+      "access": "public"
+    },
+    "sn": {
+      "name": "je0d Dark",
+      "content_type": "SN|Theme",
+      "area": "themes",
+      "main": "dark.css",
+      "description": "Dark theme based on Monokai Ristretto that is easy on the eyes",
+      "showInGallery": true,
+      "dock_icon": {
+        "type": "circle",
+        "background_color": "#f9cc6c",
+        "foreground_color": "#f9cc6c",
+        "border_color": "#fd6883"
+      }
+  }
+}  
